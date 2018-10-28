@@ -1,0 +1,12 @@
+{
+    "name": "Minimal mmo",
+    "version": "0.0.1",
+    "description": "Networking test",
+    "dependencies": {
+      "express": "^4.16.3",
+      "socket.io": "^2.1.1"
+    },
+    "engines": {
+      "node": "8.11.3"
+    }
+  }
